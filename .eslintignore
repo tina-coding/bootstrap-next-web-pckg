@@ -12,3 +12,6 @@ public
 
 .eslintrc.js
 .prettierrc.json
+
+# Config Files
+*.config.*
