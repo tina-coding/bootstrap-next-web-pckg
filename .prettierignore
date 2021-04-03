@@ -1,0 +1,11 @@
+# Dependencies
+.cache
+node_modules
+package.json
+yarn.json
+
+# Static Files
+public
+
+# Next
+.next
